@@ -1,35 +1,29 @@
+=====================================================================
 Marinov et al. FTC_2012: Extinction limit for KERO and Methane flames
 =====================================================================
 
-Title
------
+**Title**
 
 Similarity Issues of Kerosene and Methane Confined Flames Stabilized by Swirl in Regard to the Weak Extinction Limit
 
-Authors
--------
+**Authors**
 
 Svetoslav Marinov, Matthias Kern, Nikolaos Zarzalis, Peter Habisreuther, Antonio Peschiulli, Fabio Turrini, O. Nuri Sara
 
 
-Summary
--------
+**Summary**
 
-**Experimental approach:** Using identical hardware and different fuels to provide more insights in the stabilization mechanisms of non-premixed confined swirl flames.
+- Experimental approach: Using identical hardware and different fuels to provide more insights in the stabilization mechanisms of non-premixed confined swirl flames.
 
 .. figure:: images/LBO_apparatus.png
    :width: 60%
    :align: center
 
-**Determination of the LBO:** the gas analyzer was used for global CO concentration measurements on the center line at the exit of the chamber. While the combustion air mass flow rate is kept constant, kerosene mass flux is gradually decreased.
+- Determination of the LBO: the gas analyzer was used for global CO concentration measurements on the center line at the exit of the chamber. While the combustion air mass flow rate is kept constant, kerosene mass flux is gradually decreased.
 
-**Flame stability:**
+- Flame stability: Two reference operating points for KERO: ``stable`` and ``semi-stable`` regimes
 
-- Two reference operating points for KERO: ``stable`` and ``semi-stable`` regimes
-
-This paper shows two different flame regimes for the spray flame.
-
-- :math:`\Phi_{\text{idle}}`: Normalized parameter that represents the equivalence ratio at blowout of the spray flame at this consistent condition.
+:math:`\Phi_{\text{idle}}`: Normalized parameter that represents the equivalence ratio at blowout of the spray flame at this consistent condition.
  
 The stability range is more extended than in the case of the gas-fuelled burner.
 

@@ -1,17 +1,15 @@
+=============================================================
 Cavaliere et al. FTC_2013: Blow-Off behaviour of spray flames
 =============================================================
 
-Title
------
+**Title**
 
 A Comparison of the Blow-Off Behaviour of Swirl-Stabilized Premixed, Non-Premixed and Spray Flames
 
-Authors
--------
+**Authors**
 
 Davide E. Cavaliere, James Kariuki, Epaminondas Mastorakos
 
-Summary
--------
+**Summary**
 
 
