@@ -11,9 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   LBO/index
-   Mechanism/index
-   OPPDIF/index
+   FTC/index
+   CNF/index
+   PCI/index
 
 
 Indices and tables
