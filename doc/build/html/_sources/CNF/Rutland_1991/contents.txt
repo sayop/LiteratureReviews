@@ -24,6 +24,14 @@ Different approaches are studied to isolate various effects and aid in understan
 (3) Full flame-vortex interaction: combination of above two frozen cases
 
 
+- Non-dimensional parameters:
+
+(1) :math:`\sigma`: Initial vortex size. Ratio of vortex and flame length scales.
+
+(2) Damkohler number (Da): Ratio of time scales. Nondimensional vortex time scale.
+
+
+
 - Fronzen flame
 
   - The frozen flame isolates the effects of the flame on the fluid mechanics. The momentum equation, but not the energy equation, is integrated in time. The temperature and density fields remain fixed as their initial conditions. This approximates high ``Damkohler`` number flows in which the vortex passes through the flame quickly, experiencing very little turnover.
