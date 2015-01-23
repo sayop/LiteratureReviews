@@ -1,0 +1,34 @@
+======================================================
+Rutland and Ferziger (1991): Flame-Vortex interactions
+======================================================
+
+**Title**
+
+Simulations of Flame-Vortex Interactions
+
+**Authors**
+
+Christopher J. Rutland and Joel H. Ferziger
+
+
+**Summary**
+
+Full numerical simulations to study the interaction of a vortex and a premixed flame as a model problem. The effects of heat release and the importance of the relative length and time scales of the vortex and flames are examined. Changes in the internal structure and overall shape of the flame are studied.
+
+Different approaches are studied to isolate various effects and aid in understand the full interaction.
+
+(1) Frozen flame
+
+(2) Frozen vortex
+
+(3) Full flame-vortex interaction: combination of above two frozen cases
+
+
+- Fronzen flame
+
+  - The frozen flame isolates the effects of the flame on the fluid mechanics. The momentum equation, but not the energy equation, is integrated in time. The temperature and density fields remain fixed as their initial conditions. This approximates high ``Damkohler`` number flows in which the vortex passes through the flame quickly, experiencing very little turnover.
+
+  - The fluid is assumed to be inviscid.
+
+
+Under review...
