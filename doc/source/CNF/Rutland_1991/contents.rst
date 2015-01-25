@@ -38,5 +38,15 @@ Different approaches are studied to isolate various effects and aid in understan
 
   - The fluid is assumed to be inviscid.
 
+  - Baroclinic torque acts as a source of vorticity whenever the density gradient and the pressure gradient are not aligned. 
+
+  - The density gradient is normal to the flame surface. And the pressure gradient is initially radial from the vortex center.
+
+  - The principal effects appear to be elongation of the vortex in direction normal to the flame surface.
+
+  - For high Da, the time scale of the vortex is much longer than the flame: The vortex rotates very little as it passes through the flame. Thus the main effect is expansion of the vorticity distribution normal to the flame. (See Fig. 5)
+
+  - Effect of heat release on vorticity elongation: As heat release increases, voriticy elongation increa
+
 
 Under review...
