@@ -1,0 +1,20 @@
+==========================================================================
+Gokulakrishnan et al. (2009): Turbulence-Chemistry interaction in Blow-out
+==========================================================================
+
+**Title**
+
+Influence of Turbulence-Chemistry Interaction in Blow-out Predictions of Bluff-Body Stabilized Flames
+
+**Authors**
+
+Ronnuthurai Gokulakrishnan, Ravi Bikkani, Michael S. Klassen, Richard, J. Roby, and Barry V. Kiel
+
+**Summary**
+
+LES were performed to investigate the effect of turbulence-chemistry interaction on flame instability and flame-vortex interaction in bluff-body stabilized premixed flames. The tested models were followings:
+
+
+(1) Semi-global reduced mechanism vs. Skeletal mechanisms
+
+(2) 
